@@ -9,7 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)
 
+- 💬 Ask me about **SQL,PowerBI,Excel,Python & other Data Analytics tools..**
+
 - 📫 How to reach me **saxena.ekanshi30@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/its-ekanshi](https://github.com/its-ekanshi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-ekanshi&show_icons=true&locale=en" alt="its-ekanshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-ekanshi&" alt="its-ekanshi" /></p>
+
+
+
