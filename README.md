@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekanshi Saxena</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Analytics" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-ekanshi&label=Profile%20views&color=0e75b6&style=flat" alt="its-ekanshi" /> </p>
 
