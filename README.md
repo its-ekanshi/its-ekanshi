@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ekanshi Saxena</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">### Hi there, I'm Ekanshi Saxena! 👋
+</h1>
+<h3 align="center">**Aspiring Data Analyst | Passionate About Data & Insights**</h3>
 
 <img align="right" alt="Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
