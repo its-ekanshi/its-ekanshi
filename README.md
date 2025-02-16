@@ -2,8 +2,7 @@
 </h1>
 <h3 align="center">**Aspiring Data Analyst | Passionate About Data & Insights**</h3>
 
-Exploring opportunities in **Data Analytics**, with a passion for uncovering insights and creating impactful visualizations.
-
+"Passionate about Data Analytics, uncovering insights, and crafting impactful visualizations to drive business decisions."
 ---
 
 <img align="right" alt="Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
