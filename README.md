@@ -7,13 +7,19 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)
+- 👨‍💻 Some of my projects are available at [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)
 
 - 💬 Ask me about **SQL,PowerBI,Excel,Python & other Data Analytics tools..**
 
 - 📫 How to reach me **saxena.ekanshi30@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/its-ekanshi](https://github.com/its-ekanshi)
+
+- ### 🛠 Tech Stack & Tools:
+- **Languages:** Python, SQL
+- **Data Analysis & Visualization:** Power BI, Tableau
+- **Databases:** SQL Server, MySQL, PostgreSQL
+- **Other Tools:** Excel, Git & GitHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
