@@ -11,11 +11,11 @@
 
 - 📄 Know about my experiences [https://github.com/its-ekanshi](https://github.com/its-ekanshi)
 
-- ### 🛠 Tech Stack & Tools:
-- **Languages:** Python, SQL
-- **Data Analysis & Visualization:** Power BI, Tableau
-- **Databases:** SQL Server, MySQL, PostgreSQL
-- **Other Tools:** Excel, Git & GitHub
+### 🛠 Tech Stack & Tools:
+- **Languages:** Python | SQL 
+- **Data Analysis & Visualization:** Power BI | Tableau
+- **Databases:** SQL Server | MySQL | PostgreSQL 
+- **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
 #### 🔹 [AtliQ Grands Hospitality Business Dashboard](https://github.com/its-ekanshi/AtliQ-Grands-Hospitality-Business-Dashboard)
@@ -27,18 +27,10 @@
 #### 🔹 [AtliQ Business Insights](https://github.com/its-ekanshi/AtliQ-Business-Insights)
 📌 A data-driven project analyzing business performance for AtliQ using Excel. It involves data cleaning, transformation, and visualization to derive key insights for decision-making.
 
-
 _(More projects coming soon!)_
 
 👨‍💻 **Some of my projects are available at** [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)  
 🌐 **Check out my portfolio:** [https://codebasics.io/portfolio/Ekanshi-Saxena](https://codebasics.io/portfolio/Ekanshi-Saxena)
-
----
-
-### 📊 GitHub Stats:
-![Ekanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-ekanshi&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-ekanshi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -49,4 +41,4 @@ _(More projects coming soon!)_
 
 💡 **Ask me about:** SQL, Power BI, Excel, Python, and other Data Analytics tools.
 
-Let's connect and explore exciting data-driven opportunities together! 😊
+"Let's connect and discuss all things Data Analytics!"
