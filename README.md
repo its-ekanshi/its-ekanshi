@@ -1,18 +1,14 @@
-<h1 align="center">### Hi there, I'm Ekanshi Saxena! 👋
+<h1 align="center">Hi there, I'm Ekanshi Saxena! 👋
 </h1>
 <h3 align="center">**Aspiring Data Analyst | Passionate About Data & Insights**</h3>
+
+Exploring opportunities in **Data Analytics**, with a passion for uncovering insights and creating impactful visualizations.
+
+---
 
 <img align="right" alt="Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-ekanshi&label=Profile%20views&color=0e75b6&style=flat" alt="its-ekanshi" /> </p>
-
-- 🌱 I’m currently learning **Data Analytics**
-
-- 👨‍💻 Some of my projects are available at [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)
-
-- 💬 Ask me about **SQL,PowerBI,Excel,Python & other Data Analytics tools..**
-
-- 📫 How to reach me **saxena.ekanshi30@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/its-ekanshi](https://github.com/its-ekanshi)
 
@@ -22,19 +18,20 @@
 - **Databases:** SQL Server, MySQL, PostgreSQL
 - **Other Tools:** Excel, Git & GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ekanshisaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ekanshisaxena" height="30" width="40" /></a>
-</p>
+### 📌 Featured Projects:
+#### 🔹 [AtliQ Grands Hospitality Business Dashboard](https://github.com/its-ekanshi/AtliQ-Grands-Hospitality-Business-Dashboard)
+📌 A data visualization project for AtliQ Grands using Power BI and Excel. It focuses on analyzing hospitality business metrics to drive strategic decisions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 🔹 [AtliQ Hardware Business Insights 360](https://github.com/its-ekanshi/AtliQ-Hardware-Business-Insights-360)
+📌 A comprehensive business analysis project for AtliQ Hardware using MySQL, Excel, and Power BI. Focuses on data cleaning, transformation, and visualization to provide a 360-degree view of business performance.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-ekanshi&show_icons=true&locale=en&layout=compact" alt="its-ekanshi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-ekanshi&show_icons=true&locale=en" alt="its-ekanshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-ekanshi&" alt="its-ekanshi" /></p>
+#### 🔹 [AtliQ Business Insights](https://github.com/its-ekanshi/AtliQ-Business-Insights)
+📌 A data-driven project analyzing business performance for AtliQ using Excel. It involves data cleaning, transformation, and visualization to derive key insights for decision-making.
 
 
+_(More projects coming soon!)_
 
+👨‍💻 **Some of my projects are available at** [https://its-ekanshi.github.io/](https://its-ekanshi.github.io/)  
+🌐 **Check out my portfolio:** [https://codebasics.io/portfolio/Ekanshi-Saxena](https://codebasics.io/portfolio/Ekanshi-Saxena)
+
+---
