@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹 Ad-Hoc Insights - SQL Analysis for Atliq Hardware
+📌 A SQL-based data analysis project solving 10 ad-hoc business queries for Atliq Hardware. Leveraged MySQL for advanced queries and Power BI for insightful visualizations. This project provides key business insights to support data-driven decision-making.
+
 #### 🔹 [AtliQ Grands Hospitality Business Dashboard](https://github.com/its-ekanshi/AtliQ-Grands-Hospitality-Business-Dashboard)
 📌 A data visualization project for AtliQ Grands using Power BI and Excel. It focuses on analyzing hospitality business metrics to drive strategic decisions.
 
