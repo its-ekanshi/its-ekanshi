@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+### 🔹 [Sales Insights - Tableau Dashboard for AtliQ Hardware](https://github.com/its-ekanshi/Tableau-Sales-Insights-AtliQ-Hardware)
+📌 A Tableau-powered dashboard project revealing deep sales insights for AtliQ Hardware. Uncovered key metrics like revenue trends, top products, and high-performing customers. Automated reporting helps the sales team make faster, data-driven decisions while saving valuable business time.
+
 #### 🔹 [Ad-Hoc Insights - SQL Analysis for Atliq Hardware](https://github.com/its-ekanshi/SQL-AdHoc-Insights-Atliq-Hardware)
 📌 A SQL-based data analysis project solving 10 ad-hoc business queries for Atliq Hardware. Leveraged MySQL for advanced queries and Power BI for insightful visualizations. This project provides key business insights to support data-driven decision-making.
 
