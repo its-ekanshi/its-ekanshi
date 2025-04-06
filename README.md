@@ -18,7 +18,10 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
-### 🔹 [Sales Insights - Tableau Dashboard for AtliQ Hardware](https://github.com/its-ekanshi/Tableau-Sales-Insights-AtliQ-Hardware)
+#### 🔹 [Food Delivery Data Insights - Ad Hoc Analysis](https://github.com/its-ekanshi/SQL-Food-Delivery-Insights)
+📌 A SQL-based data analysis project focused on exploring food delivery trends and customer behavior. Leveraged MySQL to answer key business questions and uncover insights related to high-performing cities, loyal customers, and platform performance. This project supports strategic decision-making in the food delivery industry.
+
+#### 🔹 [Sales Insights - Tableau Dashboard for AtliQ Hardware](https://github.com/its-ekanshi/Tableau-Sales-Insights-AtliQ-Hardware)
 📌 A Tableau-powered dashboard project revealing deep sales insights for AtliQ Hardware. Uncovered key metrics like revenue trends, top products, and high-performing customers. Automated reporting helps the sales team make faster, data-driven decisions while saving valuable business time.
 
 #### 🔹 [Ad-Hoc Insights - SQL Analysis for Atliq Hardware](https://github.com/its-ekanshi/SQL-AdHoc-Insights-Atliq-Hardware)
