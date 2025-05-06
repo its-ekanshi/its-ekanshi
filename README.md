@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[Supply_Chain_Analytics](https://github.com/its-ekanshi/supply-chain-service-level-analytics)
+📌 A Power BI project focused on solving a real-world supply chain issue in the FMCG domain. Analyzed 32K+ customer orders to track OTIF, LIFR, VOFR, and delivery delays. Identified bottlenecks in cities and customer segments and presented actionable insights through an interactive dashboard. This project helps supply chain teams enhance customer satisfaction and reduce contract churn.
+
 #### 🔹 [Food Delivery Data Insights - Ad Hoc Analysis](https://github.com/its-ekanshi/SQL-Food-Delivery-Insights)
 📌 A SQL-based data analysis project focused on exploring food delivery trends and customer behavior. Leveraged MySQL to answer key business questions and uncover insights related to high-performing cities, loyal customers, and platform performance. This project supports strategic decision-making in the food delivery industry.
 
