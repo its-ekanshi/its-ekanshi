@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[Instagram_Influencer_SQL_Analysis](https://github.com/its-ekanshi/instagram-influencer-sql-analysis)
+📌 A SQL-based data analysis project focused on uncovering performance insights from a tech influencer’s Instagram activity. Analyzed structured data across posts, reach, likes, comments, and follower growth to answer 10 business-focused questions. Discovered top-performing content formats, high-engagement periods, and behavioral trends. This project demonstrates how social media data can drive smarter content strategy and audience growth.
+
 #### 🔹[Supply_Chain_Analytics](https://github.com/its-ekanshi/supply-chain-service-level-analytics)
 📌 A Power BI project focused on solving a real-world supply chain issue in the FMCG domain. Analyzed 32K+ customer orders to track OTIF, LIFR, VOFR, and delivery delays. Identified bottlenecks in cities and customer segments and presented actionable insights through an interactive dashboard. This project helps supply chain teams enhance customer satisfaction and reduce contract churn.
 
