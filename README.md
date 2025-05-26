@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[HR-Analytics](https://github.com/its-ekanshi/HR-Analytics)
+📌 A Power BI-driven HR analytics project focused on employee attendance trends, work-from-home patterns, and leave behaviors over a 3-month period. Analyzed attendance rates across departments and days of the week to uncover actionable workforce insights. Identified peak absenteeism days, WFH adoption rates, and employee-level trends. This project demonstrates how data visualization can support HR decision-making, boost productivity, and improve employee engagement strategies.
+
 #### 🔹[Shield_Insurance](https://github.com/its-ekanshi/Shield_Insurance)
 📌 A Power BI-based insurance analytics project created during a virtual internship to analyze customer behavior, policy trends, and revenue distribution for Shield Insurance. Explored data across five major cities and four sales modes (offline and online) to identify high-performing customer segments. Delivered actionable insights into fraud risk, settlement expectations, and age-wise product preferences. The dashboard empowers smarter decision-making in marketing, sales, and customer targeting.
 
