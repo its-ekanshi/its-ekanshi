@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[Shield_Insurance](https://github.com/its-ekanshi/Shield_Insurance)
+📌 A Power BI-based insurance analytics project created during a virtual internship to analyze customer behavior, policy trends, and revenue distribution for Shield Insurance. Explored data across five major cities and four sales modes (offline and online) to identify high-performing customer segments. Delivered actionable insights into fraud risk, settlement expectations, and age-wise product preferences. The dashboard empowers smarter decision-making in marketing, sales, and customer targeting.
+
 #### 🔹[Instagram_Influencer_SQL_Analysis](https://github.com/its-ekanshi/instagram-influencer-sql-analysis)
 📌 A SQL-based data analysis project focused on uncovering performance insights from a tech influencer’s Instagram activity. Analyzed structured data across posts, reach, likes, comments, and follower growth to answer 10 business-focused questions. Discovered top-performing content formats, high-engagement periods, and behavioral trends. This project demonstrates how social media data can drive smarter content strategy and audience growth.
 
