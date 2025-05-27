@@ -18,6 +18,9 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[SQL-Employee-Salary-Insights](https://github.com/its-ekanshi/SQL-Employee-Salary-Insights)
+📌 A SQL-based analytics project designed to extract powerful employee insights from a salary history dataset. It involves writing and optimizing complex queries to track promotions, calculate maximum salary hike percentages, detect salary drops, and rank employees by salary growth rate. Demonstrates advanced SQL techniques like window functions, CTEs, and performance optimization — showcasing real-world reporting capabilities for HR or payroll data systems.
+
 #### 🔹[HR-Analytics](https://github.com/its-ekanshi/HR-Analytics)
 📌 A Power BI-driven HR analytics project focused on employee attendance trends, work-from-home patterns, and leave behaviors over a 3-month period. Analyzed attendance rates across departments and days of the week to uncover actionable workforce insights. Identified peak absenteeism days, WFH adoption rates, and employee-level trends. This project demonstrates how data visualization can support HR decision-making, boost productivity, and improve employee engagement strategies.
 
