@@ -18,6 +18,12 @@
 - **Other Tools:** Excel | Git & GitHub
 
 ### 📌 Featured Projects:
+#### 🔹[codex-fnb-data-analytics](https://github.com/its-ekanshi/codex-fnb-data-analytics)
+📌 A marketing analytics project built using survey data from 10,000 respondents across 10 Indian cities to uncover key insights for CodeX, a German beverage brand entering the Indian market. The project focuses on analyzing brand awareness, consumer preferences, trial behavior, and campaign effectiveness. It highlights data cleaning, funnel analysis, and storytelling through dashboards and presentations — enabling data-driven marketing decisions and city-specific strategies for product growth and brand positioning.
+
+#### 🔹[superstore-sql-analysis](https://github.com/its-ekanshi/superstore-sql-analysis)
+📌 A SQL-based sales analytics project built using the popular Superstore dataset. This project answers 15 business-focused questions by writing optimized SQL queries in SQL Server. It explores key areas such as sales trends, product performance, customer behavior, regional delivery times, and outlier detection. The project demonstrates practical SQL skills like aggregations, filtering, subqueries, and date functions — making it ideal for real-world business intelligence and retail reporting scenarios.
+
 #### 🔹[SQL-Employee-Salary-Insights](https://github.com/its-ekanshi/SQL-Employee-Salary-Insights)
 📌 A SQL-based analytics project designed to extract powerful employee insights from a salary history dataset. It involves writing and optimizing complex queries to track promotions, calculate maximum salary hike percentages, detect salary drops, and rank employees by salary growth rate. Demonstrates advanced SQL techniques like window functions, CTEs, and performance optimization — showcasing real-world reporting capabilities for HR or payroll data systems.
 
