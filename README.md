@@ -68,7 +68,3 @@ _(More projects coming soon!)_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ekanshisaxena/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/its-ekanshi)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:saxena.ekanshi30@gmail.com)
-
-💡 **Ask me about:** SQL, Power BI, Excel, Python, and other Data Analytics tools.
-
-"Let's connect and discuss all things Data Analytics!"
